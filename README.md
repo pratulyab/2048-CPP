@@ -3,18 +3,18 @@
 - The famous 2048 Game coded in C++, played on console.
 
 - Controls: 
+<br />
+	a / A    - Left<br />
+	s / S    - Down<br />
+	w / W    - Up<br />
+	d / D    - Right<br/>
+	u / U    - Undo (Reverts the grid to the previous state)<br/>
+	n / N    - New Game<br/>
+	Q        - Quit<br/>
 
-	a / A    - Left
-	s / S    - Down
-	w / W    - Up
-	d / D    - Right
-	u / U    - Undo (Reverts the grid to the previous state)
-	n / N    - New Game
-	Q        - Quit
-
-						 Q	wW					uU
-						aA	sS	dD			
-					 						nN
+				 Q	wW					uU
+				aA	sS	dD
+									  nN
 
 - Screenshots:
 	
